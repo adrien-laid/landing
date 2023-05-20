@@ -1,0 +1,31 @@
+.banner {
+	background-image: linear-gradient(-220deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.3) 40%), url(../../images/cesec.jpeg);
+	color: #f48c06;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1, h2{
+	text-align: left;
+}
+
+.banner h1 {
+	font-size: 45px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: darker;
+	margin-bottom: 40px;
+}
+
+.banner .container{
+	text-align: left;
+}
+
+.banner .btn-blue {
+    text-align: center;
+    background-color: #ff6d00;
+    color: #ffc971;
+}
